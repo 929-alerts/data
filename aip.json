@@ -16,6 +16,16 @@
       "status": "Fire Out",
       "date_time": "2026-04-25T01:00:00",
       "notes": "Positive Alarm - T01:00:00, F.U.C: T02:14:00, F.O: T02:36:00 as per emerald 9"
+    },
+    {
+      "alert_id": "929-CMD-002",
+      "alert_code": "10-50",
+      "alert_type": "Vehicular Accident",
+      "location": "National Highway Willcon, Barangay Sala, Cabuyao Laguna",
+      "involved": "2 Motor-vehicle accident (MVA) ",
+      "status": "Positive",
+      "date_time": "2026-04-25T03:47:00",
+      "notes": "Barangay officials response in area."
     }
     
     
