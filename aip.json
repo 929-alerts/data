@@ -7,6 +7,16 @@
     "description": "Real-time alerts monitoring and dispatch system."
   },
   "fire_alerts": [
+     {
+      "alert_id": "929-CMD-006",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Black 56, Southville, Barangay Nuigan, Cabuyao Laguna",
+      "involved": "Rubbish Fire",
+      "status": "Positive Alarm",
+      "date_time": "2026-04-25T05:36:00",
+      "notes": "N/A"
+    },
     {
       "alert_id": "929-CMD-005",
       "alert_code": "10-70",
