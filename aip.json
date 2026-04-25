@@ -43,9 +43,9 @@
       "alert_type": "Fire Alert Recandle",
       "location": "Black 56, Southville, Barangay Nuigan, Cabuyao Laguna",
       "involved": "Rubbish Fire",
-      "status": "Positive Alarm",
+      "status": "Fire Out",
       "date_time": "2026-04-25T05:36:00",
-      "notes": "N/A"
+      "notes": "Positive: 2026-04-25T05:36:00 F.O: N/A"
     },
     {
       "alert_id": "929-CMD-005",
