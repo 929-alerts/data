@@ -26,7 +26,18 @@
       "status": "Positive",
       "date_time": "2026-04-25T03:47:00",
       "notes": "Barangay officials response in area."
+    },
+    {
+      "alert_id": "929-CMD-003",
+      "alert_code": "10-43",
+      "alert_type": "Heat Index: 41°C",
+      "location": "Cabuyao Laguna",
+      "involved": "Extreme Caution",
+      "status": "Positive",
+      "date_time": "2026-04-25T04:00:00",
+      "notes": "According to LagunaWISE"
     }
+    
     
     
     
