@@ -22,14 +22,23 @@
       "alert_id": "929-CMD-002",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
-      "location": "Black 56, Southville, Barangay Nuigan, Cabuyao Laguna",
+      "location": "Black 56, celestine, Barangay Marinig, Cabuyao Laguna",
       "involved": "Rubbish Fire",
       "status": "Positive Alarm",
       "date_time": "2026-04-25T01:00:00",
       "notes": "N/A"
-    }
+    },
     
-    
+    {
+      "alert_id": "929-CMD-003",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Black 56, Southville, Barangay Sala, Cabuyao Laguna",
+      "involved": "Rubbish Fire",
+      "status": "Positive Alarm",
+      "date_time": "2026-04-25T01:00:00",
+      "notes": "N/A"
+    },
     
     
   ]
