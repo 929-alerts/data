@@ -8,6 +8,16 @@
   },
   "fire_alerts": [
      {
+      "alert_id": "929-CMD-007",
+      "alert_code": "10-121",
+      "alert_type": "Heart Attack",
+      "location": "Black 14, Lot 1 and 2 Don Onofre Subdivision, Barangay Banay Banay, Cabuyao Laguna",
+      "involved": "1 Male Person",
+      "status": "Positive",
+      "date_time": "2026-04-25T05:52:00",
+      "notes": "911 and Sagip Buhay On Going"
+    },
+     {
       "alert_id": "929-CMD-006",
       "alert_code": "10-70",
       "alert_type": "Fire Alert Recandle",
