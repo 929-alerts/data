@@ -36,6 +36,16 @@
       "status": "Positive",
       "date_time": "2026-04-25T04:00:00",
       "notes": "According to LagunaWISE"
+    },
+    {
+      "alert_id": "929-CMD-004",
+      "alert_code": "10-43",
+      "alert_type": "Heat Index: 43°C",
+      "location": "Santa Rosa Laguna",
+      "involved": "Danger",
+      "status": "Positive",
+      "date_time": "2026-04-25T04:05:00",
+      "notes": "According to LagunaWISE"
     }
     
     
