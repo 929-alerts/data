@@ -7,6 +7,16 @@
     "description": "Real-time alerts monitoring and dispatch system."
   },
   "fire_alerts": [
+    {
+      "alert_id": "929-CMD-008",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Greenfield Eton, Barangay Malitlit, Santa Rosa Laguna",
+      "involved": "Grass Fire",
+      "status": "Fire is Under Control",
+      "date_time": "2026-04-25T06:20:00",
+      "notes": "as per 929-016"
+    },
      {
       "alert_id": "929-CMD-007",
       "alert_code": "10-121",
