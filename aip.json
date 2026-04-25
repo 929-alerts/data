@@ -12,10 +12,10 @@
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
       "location": "Greenfield Eton, Barangay Malitlit, Santa Rosa Laguna",
-      "involved": "Grass Fire",
-      "status": "Fire is Under Control",
+      "involved": "Grassfire",
+      "status": "Fire Out",
       "date_time": "2026-04-25T06:20:00",
-      "notes": "as per 929-016"
+      "notes": "Positive: 2026-04-25T06:20:00 F.U.C: 2026-04-25T06:25:00 F.O: 2026-04-25T07:00:00"
     },
      {
       "alert_id": "929-CMD-007",
