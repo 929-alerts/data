@@ -8,7 +8,17 @@
   },
   "fire_alerts": [
     {
-      "alert_id": "929-CMD-001",
+      "alert_id": "929-CMD-005",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Barangay Mamatid, Cabuyao Laguna",
+      "involved": "N/A",
+      "status": "For Verification",
+      "date_time": "2026-04-25T04:20:00",
+      "notes": " from radio caller."
+    },
+    {
+      "alert_id": "929-CMD-004",
       "alert_code": "10-43",
       "alert_type": "Heat Index: 41°C",
       "location": "Cabuyao Laguna",
@@ -18,7 +28,7 @@
       "notes": "According to LagunaWISE"
     },
     {
-      "alert_id": "929-CMD-002",
+      "alert_id": "929-CMD-003",
       "alert_code": "10-43",
       "alert_type": "Heat Index: 43°C",
       "location": "Santa Rosa Laguna",
@@ -28,7 +38,7 @@
       "notes": "According to LagunaWISE"
     },
     {
-      "alert_id": "929-CMD-003",
+      "alert_id": "929-CMD-002",
       "alert_code": "10-50",
       "alert_type": "Vehicular Accident",
       "location": "National Highway Willcon, Barangay Sala, Cabuyao Laguna",
@@ -38,7 +48,7 @@
       "notes": "Barangay officials response in area: 2026-04-25T03:47:00"
     },
     {
-      "alert_id": "929-CMD-004",
+      "alert_id": "929-CMD-001",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
       "location": "Black 56, Southville, Barangay Nuigan, Cabuyao Laguna",
