@@ -13,9 +13,9 @@
       "alert_type": "Fire Alert",
       "location": "Black 56, Southville, Barangay Nuigan, Cabuyao Laguna",
       "involved": "Rubbish Fire",
-      "status": "Fire is Under Conrol",
+      "status": "Fire Out",
       "date_time": "2026-04-25T01:00:00",
-      "notes": "N/A"
+      "notes": "Positive Alarm - T01:00:00, F.U.C: T02:14:00, F.O: T02:36:00 as per emerald 9"
     }
     
     
