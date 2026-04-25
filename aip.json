@@ -12,10 +12,10 @@
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
       "location": "Barangay Mamatid, Cabuyao Laguna",
-      "involved": "N/A",
-      "status": "For Verification",
+      "involved": "Grassfire",
+      "status": "Fire Out",
       "date_time": "2026-04-25T04:20:00",
-      "notes": " from radio caller."
+      "notes": "as per barangay mamatid."
     },
     {
       "alert_id": "929-CMD-004",
