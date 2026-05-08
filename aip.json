@@ -9,26 +9,7 @@
 
 
   "fire_alerts": [
-    {
-      "alert_id": "929-CMD-000",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": " Enter the address...",
-      "involved": "N/A",
-      "status": " ",
-      "date_time": "2026-04-24T01:13:00AM",
-      "notes": "N/A"
-    },
-    {
-      "alert_id": "929-CMD-000",
-      "alert_code": "10-50",
-      "alert_type": "Vehicle Accident",
-      "location": " Enter the address...",
-      "involved": "N/A",
-      "status": " ",
-      "date_time": "2026-04-24T01:33:00AM",
-      "notes": "N/A"
-    }
+    
 
 
 
