@@ -10,7 +10,7 @@
 
   "fire_alerts": [
 {
-      "alert_id": "929-CMD-003",
+      "alert_id": "929-CMD-005",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
       "location": "Sandico Tondo Manila",
@@ -20,7 +20,7 @@
       "notes": "N/A"
     },
 {
-      "alert_id": "929-CMD-003",
+      "alert_id": "929-CMD-004",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
       "location": "9123 Narra St, Barangay Guadalupe, Makati City, 1211 Metro Manila",
