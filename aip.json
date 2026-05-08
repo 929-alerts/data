@@ -10,24 +10,14 @@
 
   "fire_alerts": [
    {
-      "alert_id": "929-CMD-000",
-      "alert_code": "1070 ",
-      "alert_type": "Fire Alert",
-      "location": "Cabuyao ",
-      "involved": "N/A",
-      "status": "positive alarm",
-      "date_time": "may 6,2026 1:23 ",
-      "notes": "N/A"
-    },
-    {
-      "alert_id": "929-CMD-000",
-      "alert_code": "1070 ",
-      "alert_type": "Fire Alert",
-      "location": "Cabuyao ",
-      "involved": "N/A",
-      "status": "positive alarm",
-      "date_time": "may 6,2026 1:23 ",
-      "notes": "N/A"
+      "alert_id": "929-CMD-001",
+      "alert_code": "10-50",
+      "alert_type": "Vehicular Accident",
+      "location": "Cabuyao Bayan Near Chaoking, Barangay Poblacion Dos, Cabuyao Laguna",
+      "involved": "1 Motorcycle Self Accident",
+      "status": "Positive",
+      "date_time": "May 9,2026 4:58:14 AM ",
+      "notes": "911 on Going. "
     }
 
 
