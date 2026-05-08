@@ -10,17 +10,17 @@
 
   "fire_alerts": [ 
   {
-      "alert_id": "929-CMD-002",
-      "alert_code": " ",
-      "alert_type": " ",
-      "location": " ",
+      "alert_id": "929-CMD-001",
+      "alert_code": "1070 ",
+      "alert_type": "Fire Alert",
+      "location": "Cabuyao ",
       "involved": "N/A",
-      "status": " ",
-      "date_time": " ",
+      "status": "positive alarm",
+      "date_time": "may 6,2026 ",
       "notes": "N/A"
     },
   {
-      "alert_id": "929-CMD-001",
+      "alert_id": "929-CMD-000",
       "alert_code": " ",
       "alert_type": " ",
       "location": " ",
