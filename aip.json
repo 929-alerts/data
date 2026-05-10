@@ -10,6 +10,16 @@
 
   "fire_alerts": [
     {
+      "alert_id": "929-CMD-006",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Eton City, Barangay Malitlit, Santa Rosa City Laguna",
+      "involved": "Grassfire",
+      "status": "For Verification",
+      "date_time": "May 11,2026 5:22 AM ",
+      "notes": "As per CZ. report online"
+    }, 
+    {
       "alert_id": "929-CMD-005",
       "alert_code": "10-50",
       "alert_type": "Vehicular Accident",
