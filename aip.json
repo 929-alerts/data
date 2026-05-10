@@ -9,6 +9,16 @@
 
 
   "fire_alerts": [
+    {
+      "alert_id": "929-CMD-005",
+      "alert_code": "10-50",
+      "alert_type": "Vehicular Accident",
+      "location": "Barangay Dila near at front of Jollibee, Santa Rosa City Laguna",
+      "involved": "2 Motorcycle",
+      "status": "Positive",
+      "date_time": "May 11,2026 4:45 AM ",
+      "notes": "Asper C3, On Area 911 Ambu"
+    }, 
 {
       "alert_id": "929-CMD-004",
       "alert_code": "10-70",
