@@ -10,6 +10,46 @@
 
   "fire_alerts": [
     {
+      "alert_id": "929-CMD-010",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Corozan Compound, Barangay Mamatid, Cabuyao City Laguna",
+      "involved": "Grassfire",
+      "status": "Positive",
+      "date_time": "May 11,2026 1:26 PM ",
+      "notes": "Near in residential as per Emerald 9"
+    },
+    {
+      "alert_id": "929-CMD-009",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Corozan Compound, Barangay Mamatid, Cabuyao City Laguna",
+      "involved": "N/A",
+      "status": "For Verification",
+      "date_time": "May 11,2026 1:20 PM ",
+      "notes": "N/A"
+    },
+    {
+      "alert_id": "929-CMD-008",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Santa Elena along Expressway, Barangay Malitlit, Santa Rosa City Laguna",
+      "involved": "Grassfire",
+      "status": "Posotive",
+      "date_time": "May 11,2026 1:00 PM ",
+      "notes": "As per CZ. report online"
+    },
+    {
+      "alert_id": "929-CMD-007",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Purok 6, Barangay Bigaa, Cabuyao City Laguna",
+      "involved": "Grassfire",
+      "status": "Positive",
+      "date_time": "May 11,2026 11:04 AM ",
+      "notes": "As per Emerald 9"
+    },
+    {
       "alert_id": "929-CMD-006",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
