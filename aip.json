@@ -10,6 +10,16 @@
 
   "fire_alerts": [
     {
+      "alert_id": "929-CMD-013",
+      "alert_code": "10-50",
+      "alert_type": "Vehicular Accident",
+      "location": "Patio Vida, Barangay Sala, Cabuyao City Laguna",
+      "involved": "1 Motorcycle Self Accident",
+      "status": "Positive",
+      "date_time": "May 12,2026 2:55 AM ",
+      "notes": ""
+    },
+    {
       "alert_id": "929-CMD-012",
       "alert_code": "10-50",
       "alert_type": "Vehicular Accident",
