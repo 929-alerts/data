@@ -10,6 +10,16 @@
 
   "fire_alerts": [
     {
+      "alert_id": "929-CMD-012",
+      "alert_code": "10-50",
+      "alert_type": "Vehicular Accident",
+      "location": "Walter National Highway, Barangay Banlic, Cabuyao City Laguna",
+      "involved": "N/A",
+      "status": "Positive",
+      "date_time": "May 11,2026 11:31 PM ",
+      "notes": "Asper Barangay Banlic"
+    }, 
+    {
       "alert_id": "929-CMD-011",
       "alert_code": "10-70",
       "alert_type": "Visible Smoke",
