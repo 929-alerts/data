@@ -9,6 +9,16 @@
 
 
   "fire_alerts": [
+{
+      "alert_id": "929-CMD-000",
+      "alert_code": " ",
+      "alert_type": " ",
+      "location": " ",
+      "involved": "N/A",
+      "status": " ",
+      "date_time": " ",
+      "notes": "N/A"
+    },
   {
       "alert_id": "929-CMD-015",
       "alert_code": "10-70",
