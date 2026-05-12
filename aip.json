@@ -8,7 +8,8 @@
   },
 
 
-  "fire_alerts": [{
+  "fire_alerts": [
+{
       "alert_id": "929-CMD-015",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
