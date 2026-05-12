@@ -10,6 +10,16 @@
 
   "fire_alerts": [
 {
+      "alert_id": "929-CMD-019",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "brgy.Dita Rose Village Sta Rosa Laguna",
+      "involved": "Residential/Rubbish",
+      "status": "Fire Out",
+      "date_time": "May 12,2026 14:04",
+      "notes": "N/A"
+    },
+{
       "alert_id": "929-CMD-018",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
