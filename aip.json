@@ -10,6 +10,16 @@
 
   "fire_alerts": [
 {
+      "alert_id": "929-CMD-021",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Divine Life brgy Gulod, Cabuyao City Laguna",
+      "involved": "Grassfire",
+      "status": "Fire Under Control",
+      "date_time": "May 15,2026 23:41",
+      "notes": "As per Makiling Delta"
+    },
+{
       "alert_id": "929-CMD-020",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
@@ -19,196 +29,7 @@
       "date_time": "May 15,2026 23:14",
       "notes": "As per Makiling Delta"
     },
- {
-      "alert_id": "929-CMD-019",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "brgy.Dita Rose Village Sta Rosa Laguna",
-      "involved": "Residential/Rubbish",
-      "status": "Fire Out",
-      "date_time": "May 12,2026 14:04",
-      "notes": "N/A"
-    },
-{
-      "alert_id": "929-CMD-018",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "brgy.Dita Rose Village Sta Rosa Laguna",
-      "involved": "Residential/Rubbish",
-      "status": "Fire Under Control",
-      "date_time": "May 12,2026 13:48",
-      "notes": "N/A"
-    },
-{
-      "alert_id": "929-CMD-018",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Brgy. Dita Rose Village Sta Rosa Laguna",
-      "involved": "Residential/Rubbish",
-      "status": "Positive",
-      "date_time": "May 12,2026 13:30",
-      "notes": "N/A"
-    },
-{
-      "alert_id": "929-CMD-016",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Centennial Pulo Cabuyao Laguna",
-      "involved": "Grassfire",
-      "status": "Positive Alarm",
-      "date_time": "May 12,2026 13:26 ",
-      "notes": "As per emerald 9"
-    },
-  {
-      "alert_id": "929-CMD-015",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "brg. Lawa Purok 6 Calamba City Laguna",
-      "involved": "Junkshop",
-      "status": "Positive Alarm",
-      "date_time": "May 12,2026 12:09 ",
-      "notes": "Situation Alpha By Bfp Calamba"
-    },
-  {
-      "alert_id": "929-CMD-014",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Purok 6 brgy.Prinza boundary and brgy batino Calamba Laguna",
-      "involved": "Rubbish Fire",
-      "status": "1st Alarm",
-      "date_time": "May 12,2026 11:56 ",
-      "notes": "Situation Alpha By Bfp Calamba Assistance Needed 78 Need water Supply As per Bfp Calamba"
-    },
-    {
-      "alert_id": "929-CMD-013",
-      "alert_code": "10-50",
-      "alert_type": "Vehicular Accident",
-      "location": "Patio Vida, Barangay Sala, Cabuyao City Laguna",
-      "involved": "1 Motorcycle Self Accident",
-      "status": "Positive",
-      "date_time": "May 12,2026 2:55 AM ",
-      "notes": ""
-    },
-    {
-      "alert_id": "929-CMD-012",
-      "alert_code": "10-50",
-      "alert_type": "Vehicular Accident",
-      "location": "Walter National Highway, Barangay Banlic, Cabuyao City Laguna",
-      "involved": "N/A",
-      "status": "Positive",
-      "date_time": "May 11,2026 11:31 PM ",
-      "notes": "Asper Barangay Banlic"
-    }, 
-    {
-      "alert_id": "929-CMD-011",
-      "alert_code": "10-70",
-      "alert_type": "Visible Smoke",
-      "location": "Barangay Turbina, Calamba City Laguna",
-      "involved": "N/A",
-      "status": "For Verification",
-      "date_time": "May 11,2026 5:00 PM ",
-      "notes": "As per CZ. report online"
-    },
-    {
-      "alert_id": "929-CMD-010",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Corozan Compound, Barangay Mamatid, Cabuyao City Laguna",
-      "involved": "Grassfire",
-      "status": "Positive",
-      "date_time": "May 11,2026 1:26 PM ",
-      "notes": "Near in residential as per Emerald 9"
-    },
-    {
-      "alert_id": "929-CMD-009",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Corozan Compound, Barangay Mamatid, Cabuyao City Laguna",
-      "involved": "N/A",
-      "status": "For Verification",
-      "date_time": "May 11,2026 1:20 PM ",
-      "notes": "N/A"
-    },
-    {
-      "alert_id": "929-CMD-008",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Santa Elena along Expressway, Barangay Malitlit, Santa Rosa City Laguna",
-      "involved": "Grassfire",
-      "status": "Posotive",
-      "date_time": "May 11,2026 1:00 PM ",
-      "notes": "As per CZ. report online"
-    },
-    {
-      "alert_id": "929-CMD-007",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Purok 6, Barangay Bigaa, Cabuyao City Laguna",
-      "involved": "Grassfire",
-      "status": "Positive",
-      "date_time": "May 11,2026 11:04 AM ",
-      "notes": "As per Emerald 9"
-    },
-    {
-      "alert_id": "929-CMD-006",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Eton City, Barangay Malitlit, Santa Rosa City Laguna",
-      "involved": "Grassfire",
-      "status": "For Verification",
-      "date_time": "May 11,2026 5:22 AM ",
-      "notes": "As per CZ. report online"
-    }, 
-    {
-      "alert_id": "929-CMD-005",
-      "alert_code": "10-50",
-      "alert_type": "Vehicular Accident",
-      "location": "Barangay Dila near at front of Jollibee, Santa Rosa City Laguna",
-      "involved": "2 Motorcycle",
-      "status": "Positive",
-      "date_time": "May 11,2026 4:45 AM ",
-      "notes": "Asper C3, On Area 911 Ambu"
-    }, 
-{
-      "alert_id": "929-CMD-004",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Centennial Homes Pulo near pulihan Cabuyao City Laguna",
-      "involved": "Junkshop",
-      "status": "Fire Under Control",
-      "date_time": "May 9,2026 14:43 ",
-      "notes": "Asper Sir Emerald 9"
-    }, 
-   {
-      "alert_id": "929-CMD-003",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Centennial Homes Pulo near pulihan Cabuyao City",
-      "involved": "Junkshop",
-      "status": "Positive Alarm",
-      "date_time": "May 9,2026 14:35 ",
-      "notes": "Asper Sir Emerald 9"
-    }, 
-   {
-      "alert_id": "929-CMD-002",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Along Expressway Pulong Sta. Cruz, Santa Rosa, Laguna",
-      "involved": "Grassfire",
-      "status": "Fire out",
-      "date_time": "May 9,2026 16:25 Pm ",
-      "notes": "N/A"
-    }, 
-   {
-      "alert_id": "929-CMD-001",
-      "alert_code": "10-50",
-      "alert_type": "Vehicular Accident",
-      "location": "Cabuyao Bayan Near Chaoking, Barangay Poblacion Dos, Cabuyao Laguna",
-      "involved": "1 Motorcycle Self Accident",
-      "status": "Positive",
-      "date_time": "May 9,2026 4:58:14 AM ",
-      "notes": "911 on Going. "
-    }
+ 
 
 
 
