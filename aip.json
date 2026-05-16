@@ -10,6 +10,16 @@
 
   "fire_alerts": [
     {
+      "alert_id": "929-CMD-003",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Divine Life brgy Gulod, Cabuyao City Laguna",
+      "involved": "Grassfire",
+      "status": "Fire Out",
+      "date_time": "May 15,2026 23:45",
+      "notes": "As per Makiling Delta"
+    },
+    {
       "alert_id": "929-CMD-002",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
