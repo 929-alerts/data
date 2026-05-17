@@ -10,6 +10,16 @@
 
   "fire_alerts": [
 {
+      "alert_id": "929-CMD-006",
+      "alert_code": "10-70",
+      "alert_type": "Fire Alert",
+      "location": "Gate 2 Asia brewery Eton,brgy malitlit",
+      "involved": "Grassfire",
+      "status": " For Verification",
+      "date_time": "May 17,2026 12:55",
+      "notes": "Wait For further info"
+    },
+{
       "alert_id": "929-CMD-005",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
