@@ -10,95 +10,15 @@
 
   "fire_alerts": [
     {
-      "alert_id": "929-CMD-009",
-      "alert_code": "10-50",
-      "alert_type": "Vehicle Accident",
-      "location": "Waltermark, Barangay Banlic, Cabuyao Laguna",
-      "involved": "N/A",
-      "status": "For Verify",
-      "date_time": "May 20,2026 5:45 AM",
-      "notes": "as per mama sierra"
-    },
-    {
-      "alert_id": "929-CMD-008",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Centennial Homes, Barangay Pulo Cabuyao, Laguna",
-      "involved": "Rubbish Fire",
-      "status": "Fire Out",
-      "date_time": "May 19,2026 2:40 PM",
-      "notes": "as per mama sierra"
-    },
-    {
-      "alert_id": "929-CMD-007",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Centennial Homes, Barangay Pulo Cabuyao, Laguna",
-      "involved": "Rubbish Fire",
-      "status": "Positive",
-      "date_time": "May 19,2026 2:24 PM",
-      "notes": "Near the scrapyard. Wait For further info"
-    },
-{
-      "alert_id": "929-CMD-006",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Gate 2 Asia brewery Eton,brgy malitlit Sta Rosa City Laguna",
-      "involved": "Grassfire",
-      "status": " For Verification",
-      "date_time": "May 17,2026 12:55",
-      "notes": "Wait For further info"
-    },
-{
-      "alert_id": "929-CMD-005",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "brgy Gulod, Cabuyao City Laguna",
-      "involved": "Grassfire",
-      "status": "Negative Alarm",
-      "date_time": "May 17,2026 13:17",
-      "notes": "Negative Alarm, We Verified In the Area"
-    },
- {
-      "alert_id": "929-CMD-004",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "brgy Gulod, Cabuyao City Laguna",
-      "involved": "Grassfire",
-      "status": "For Verification",
-      "date_time": "May 17,2026 12:40",
-      "notes": "N/A"
-    },
-    {
-      "alert_id": "929-CMD-003",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Divine Life brgy Gulod, Cabuyao City Laguna",
-      "involved": "Grassfire",
-      "status": "Fire Out",
-      "date_time": "May 15,2026 23:45",
-      "notes": "As per Makiling Delta"
-    },
-    {
-      "alert_id": "929-CMD-002",
-      "alert_code": "10-70",
-      "alert_type": "Fire Alert",
-      "location": "Divine Life brgy Gulod, Cabuyao City Laguna",
-      "involved": "Grassfire",
-      "status": "Fire Under Control",
-      "date_time": "May 15,2026 23:41",
-      "notes": "As per Makiling Delta"
-    },
-    {
       "alert_id": "929-CMD-001",
       "alert_code": "10-70",
       "alert_type": "Fire Alert",
-      "location": "Divine Life brgy Gulod, Cabuyao City Laguna",
-      "involved": "Grassfire",
-      "status": "Positive",
-      "date_time": "May 15,2026 23:14",
-      "notes": "As per Makiling Delta"
-    },
+      "location": "Villa Susana, Barangay Malitlit, Cabuyao City Laguna",
+      "involved": "Paletahan",
+      "status": "Fire Out",
+      "date_time": "June 06, 2026 07:00 PM",
+      "notes": "N/A"
+    }
  
 
  ]
